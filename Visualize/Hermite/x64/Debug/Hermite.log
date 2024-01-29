@@ -1,0 +1,4 @@
+﻿  HermiteCurve.cpp
+D:\Chirag_Workspace\OPENGL\SpanLine-Algorithm-implementation\Visualize\Visualize\Hermite\HermiteCurve.h(3,10): error C1083: Cannot open include file: 'Point2D.h': No such file or directory
+  (compiling source file '/HermiteCurve.cpp')
+  
